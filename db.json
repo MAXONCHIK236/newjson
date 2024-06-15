@@ -3,10 +3,10 @@
     {
       "id": 1,
       "title": "Invicta",
-      "price": 209.95,
-      "description": "oeufifbhe",
+      "price": "25000сом",
+      "description": "Invicta 80036 Men's Pro Diver ",
       "category": "men's watch",
-      "image": "https://i.ebayimg.com/images/g/OmUAAOSwlAFmApu2/s-l1600.webp"
+      "image": "https://i.ebayimg.com/images/g/ckgAAOSwFk9lsr0z/s-l1600.webp"
   },
   {
     "id": 2,
